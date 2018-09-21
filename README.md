@@ -1,2 +1,4 @@
-# First-Repository
-New developer, hope to be uploading my personal projects from time to time as I finish them
+# First-Repository, TensorFlow for Disaster Relief (not yet finished)
+The tensorflow model is function with pre-formatted tensor data
+currently formatting my own data to pipe into the model
+
