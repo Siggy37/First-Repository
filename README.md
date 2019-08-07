@@ -1,4 +1,9 @@
 # First-Repository, TensorFlow for Disaster Relief (not yet finished)
+UPDATE 8/7/2019:
+I have redesigned the image classifier with Pytorch. Model1.py works as intended however I cannot get the data files or model parameters saved from training to upload as they exceed githubs size limit.  
+
+
+
 NOTE/ UPDATE:
 This program has bugs and I have since moved on to other things  (Mostly due to it being done during the school year in which I focussed mainly on school work and my official research projects)... I have since learned a lot more about Linear Algebra/ Machine Learning and its various API's, and may return to this project one day to finish it.
 
